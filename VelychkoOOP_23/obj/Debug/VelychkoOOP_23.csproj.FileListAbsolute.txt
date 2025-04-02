@@ -1,0 +1,10 @@
+C:\Users\ole\source\repos\VelychkoOOP_23\bin\Debug\VelychkoOOP_23.exe.config
+C:\Users\ole\source\repos\VelychkoOOP_23\bin\Debug\VelychkoOOP_23.exe
+C:\Users\ole\source\repos\VelychkoOOP_23\bin\Debug\VelychkoOOP_23.pdb
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.csproj.AssemblyReference.cache
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.Form1.resources
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.Properties.Resources.resources
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.csproj.GenerateResource.cache
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.csproj.CoreCompileInputs.cache
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.exe
+C:\Users\ole\source\repos\VelychkoOOP_23\obj\Debug\VelychkoOOP_23.pdb
