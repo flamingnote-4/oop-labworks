@@ -30,7 +30,7 @@ namespace VelychkoOOP_20
                     throw new Exception("BadArgumentA");
                 }
 
-                double result = a / (-b);
+                double result = b / (-a);
 
                 Result_Label.ForeColor = Color.Black;
                 Result_Label.Text = $"Корінь: {result}";
